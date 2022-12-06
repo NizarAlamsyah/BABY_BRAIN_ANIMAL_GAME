@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "BABYBRAIN DEVELOPER UAS GAME PROGRAMMING"
